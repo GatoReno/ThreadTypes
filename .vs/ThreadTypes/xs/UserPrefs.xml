@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{583B2F73-ACEA-42B8-A284-65A0194748E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lock/Program.cs">
+    <Files>
+      <File FileName="ThreadTypes/Program.cs" Line="1" Column="1" />
+      <File FileName="Lock/Program.cs" Line="12" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThreadTypes" expanded="True">
+            <Node name="Lock" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ThreadTypes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ThreadTypes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lock FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
