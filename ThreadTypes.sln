@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.808.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTypes", "ThreadTypes\ThreadTypes.csproj", "{583B2F73-ACEA-42B8-A284-65A0194748E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lock", "Lock\Lock.csproj", "{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "Lock\Monitor.csproj", "{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

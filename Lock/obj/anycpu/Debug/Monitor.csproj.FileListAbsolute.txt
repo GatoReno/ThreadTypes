@@ -1,0 +1,5 @@
+/Users/dmn/Projects/ThreadTypes/Lock/bin/Debug/Lock.exe
+/Users/dmn/Projects/ThreadTypes/Lock/bin/Debug/Lock.pdb
+/Users/dmn/Projects/ThreadTypes/Lock/obj/anycpu/Debug/Monitor.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/ThreadTypes/Lock/obj/anycpu/Debug/Lock.exe
+/Users/dmn/Projects/ThreadTypes/Lock/obj/anycpu/Debug/Lock.pdb
