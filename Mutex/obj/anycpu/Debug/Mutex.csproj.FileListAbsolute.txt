@@ -1,0 +1,5 @@
+/Users/dmn/Projects/ThreadTypes/Mutex/bin/Debug/Mutex.exe
+/Users/dmn/Projects/ThreadTypes/Mutex/bin/Debug/Mutex.pdb
+/Users/dmn/Projects/ThreadTypes/Mutex/obj/anycpu/Debug/Mutex.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/ThreadTypes/Mutex/obj/anycpu/Debug/Mutex.exe
+/Users/dmn/Projects/ThreadTypes/Mutex/obj/anycpu/Debug/Mutex.pdb

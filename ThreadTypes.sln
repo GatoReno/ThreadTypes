@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEvent", "ManualR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventTest", "AutoResetEventTest\AutoResetEventTest.csproj", "{CA3FC82F-CB1C-456F-B68C-3819006F2034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "Mutex\Mutex.csproj", "{BC762942-23F3-4454-9543-2A8AAA1B32AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -33,6 +35,10 @@ Global
 		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Debug|anycpu.Build.0 = Debug|anycpu
 		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Release|anycpu.ActiveCfg = Release|anycpu
 		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Release|anycpu.Build.0 = Release|anycpu
+		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
