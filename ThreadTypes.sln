@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventTest", "AutoR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "Mutex\Mutex.csproj", "{BC762942-23F3-4454-9543-2A8AAA1B32AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore__", "Semaphore__\Semaphore__.csproj", "{7F556973-A2AE-4E88-876E-B733BF16CD75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -39,6 +41,10 @@ Global
 		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Debug|anycpu.Build.0 = Debug|anycpu
 		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Release|anycpu.ActiveCfg = Release|anycpu
 		{BC762942-23F3-4454-9543-2A8AAA1B32AF}.Release|anycpu.Build.0 = Release|anycpu
+		{7F556973-A2AE-4E88-876E-B733BF16CD75}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7F556973-A2AE-4E88-876E-B733BF16CD75}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7F556973-A2AE-4E88-876E-B733BF16CD75}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7F556973-A2AE-4E88-876E-B733BF16CD75}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
