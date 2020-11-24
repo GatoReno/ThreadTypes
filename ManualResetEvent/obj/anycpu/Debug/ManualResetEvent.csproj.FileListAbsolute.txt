@@ -1,0 +1,5 @@
+/Users/dmn/Projects/ThreadTypes/ManualResetEvent/bin/Debug/ManualResetEvent.exe
+/Users/dmn/Projects/ThreadTypes/ManualResetEvent/bin/Debug/ManualResetEvent.pdb
+/Users/dmn/Projects/ThreadTypes/ManualResetEvent/obj/anycpu/Debug/ManualResetEvent.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/ThreadTypes/ManualResetEvent/obj/anycpu/Debug/ManualResetEvent.exe
+/Users/dmn/Projects/ThreadTypes/ManualResetEvent/obj/anycpu/Debug/ManualResetEvent.pdb

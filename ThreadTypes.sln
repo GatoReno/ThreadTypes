@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTypes", "ThreadTypes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "Lock\Monitor.csproj", "{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEvent", "ManualResetEvent\ManualResetEvent.csproj", "{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -21,6 +23,10 @@ Global
 		{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}.Debug|anycpu.Build.0 = Debug|anycpu
 		{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}.Release|anycpu.ActiveCfg = Release|anycpu
 		{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}.Release|anycpu.Build.0 = Release|anycpu
+		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
