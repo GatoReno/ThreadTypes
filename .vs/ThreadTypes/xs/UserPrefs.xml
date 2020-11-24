@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{42A32AB0-2D4D-4543-BF4E-EBEC7DF4E4A8}|Default">
+﻿<Properties StartupConfiguration="{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Lock/Program.cs">
     <Files>
       <File FileName="ThreadTypes/Program.cs" Line="1" Column="1" />
@@ -17,8 +17,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AutoResetEventTest FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ThreadTypes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ManualResetEvent FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ManualResetEvent PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,5 @@
+/Users/dmn/Projects/ThreadTypes/AutoResetEventTest/bin/Debug/AutoResetEventTest.exe
+/Users/dmn/Projects/ThreadTypes/AutoResetEventTest/bin/Debug/AutoResetEventTest.pdb
+/Users/dmn/Projects/ThreadTypes/AutoResetEventTest/obj/anycpu/Debug/AutoResetEventTest.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/ThreadTypes/AutoResetEventTest/obj/anycpu/Debug/AutoResetEventTest.exe
+/Users/dmn/Projects/ThreadTypes/AutoResetEventTest/obj/anycpu/Debug/AutoResetEventTest.pdb

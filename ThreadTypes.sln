@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "Lock\Monitor.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEvent", "ManualResetEvent\ManualResetEvent.csproj", "{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventTest", "AutoResetEventTest\AutoResetEventTest.csproj", "{CA3FC82F-CB1C-456F-B68C-3819006F2034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +29,10 @@ Global
 		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Debug|anycpu.Build.0 = Debug|anycpu
 		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Release|anycpu.ActiveCfg = Release|anycpu
 		{5994EE34-1C1A-4300-BBC4-07B6D3FDFD2E}.Release|anycpu.Build.0 = Release|anycpu
+		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CA3FC82F-CB1C-456F-B68C-3819006F2034}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
